@@ -10,7 +10,7 @@ A Sudoku puzzle app built with Vue.js on the frontend and Express.js on the back
 ##  Tech Stack
 - **Frontend**: Vue 3
 - **Backend**: Express.js
-- **API**: YouDoSudoku.com
+- **API**: [YouDoSudoku](https://www.youdosudoku.com)
 
 ## Screenshots
 <p align="center">
